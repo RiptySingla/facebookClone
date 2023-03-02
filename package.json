@@ -1,0 +1,24 @@
+{
+  "name": "facebookclone",
+  "version": "1.0.0",
+  "description": "facebook clone",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "keywords": [],
+  "author": "Ripty",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RiptySingla/facebookClone.git"
+  },
+  "bugs": {
+    "url": "https://github.com/RiptySingla/facebookClone/issues"
+  },
+  "homepage": "https://github.com/RiptySingla/facebookClone#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
